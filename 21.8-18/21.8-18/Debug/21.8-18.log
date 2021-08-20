@@ -1,0 +1,20 @@
+﻿生成启动时间为 2021/8/18 星期三 21:55:09。
+     1>项目“D:\C语言\C\21.8-18\21.8-18\21.8-18.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\c语言\c\21.8-18\21.8-18\test.cpp(15): error C3312: 未找到类型“std::priority_queue<int,std::vector<int,std::allocator<_Ty>>,std::less<_Ty>>”的可调用“begin”函数
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>d:\c语言\c\21.8-18\21.8-18\test.cpp(15): error C3312: 未找到类型“std::priority_queue<int,std::vector<int,std::allocator<_Ty>>,std::less<_Ty>>”的可调用“end”函数
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>已完成生成项目“D:\C语言\C\21.8-18\21.8-18\21.8-18.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.62
